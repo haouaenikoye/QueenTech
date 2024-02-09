@@ -319,7 +319,7 @@ header .navbar ul li a:hover {
   background-color: #070707;
 }
 .social-icons a.instagram:hover {
-  background-color: #ee00da;
+  background-color: #d2601a;
 }
 /* social icons end */
 
@@ -978,8 +978,7 @@ form i {
   position: absolute;
   top: 50%;
   left: 18px;
-  color: rgb(210, 96, 26);
-
+  color: rgb(51, 51, 51);
   font-size: 17px;
   pointer-events: none;
   transform: translateY(-50%);
@@ -998,17 +997,16 @@ form .message textarea {
 }
 .field input::placeholder,
 .message textarea::placeholder {
-  color: rgb(240, 240, 240);
+  color: rgb(51, 51, 51);
 }
 .field input:focus,
 .message textarea:focus {
   padding-left: 47px;
   border: 2px solid rgb(210, 96, 26);
-
 }
 .field input:focus ~ i,
 .message textarea:focus ~ i {
-  color:rgb(240, 240, 240);
+  color: rgb(210,96,26);
 }
 form .message {
   position: relative;
