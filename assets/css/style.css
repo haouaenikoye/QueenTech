@@ -997,7 +997,7 @@ form .message textarea {
 }
 .field input::placeholder,
 .message textarea::placeholder {
-  color: rgb(210,96,26);
+  color: rgb(240, 240, 240);
 }
 .field input:focus,
 .message textarea:focus {
@@ -1006,7 +1006,7 @@ form .message textarea {
 }
 .field input:focus ~ i,
 .message textarea:focus ~ i {
-  color: rgb(210,96,26);
+  color:rgb(240, 240, 240);
 }
 form .message {
   position: relative;
